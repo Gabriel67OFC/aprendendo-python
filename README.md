@@ -5,3 +5,5 @@
 - Tipo de dados
     -in
     -string
+    -float
+    -boolear
