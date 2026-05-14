@@ -12,7 +12,7 @@ if frequencia > 0:
     if media>=7: 
         print("aprovado")
     elif media>=5:
-        print("Ficou de recuperacao")
+        print("Ficou de recuperação")
 else: 
     print("Reprovado por falta")
 
