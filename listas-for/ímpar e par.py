@@ -12,6 +12,6 @@ for numero in numeros:
     else:
         impares.append(numero)
 
-print("Lista principal:", numeros)
-print("Lista de pares:", pares)
-print("Lista de ímpares:", impares)
+print("Lista principal: ", numeros)
+print("Lista de pares: ", pares)
+print("Lista de ímpares: ", impares)

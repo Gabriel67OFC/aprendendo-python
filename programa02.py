@@ -1,6 +1,5 @@
-# Atividade de média
 
-frequencia = int(input("Informe quantos dias o aluno compareceu as aulas: "))
+Nota = float(input("Informe quantos dias o aluno compareceu as aulas: "))
 
 if frequencia > 0:
     print("Não reprovou por falta")
