@@ -1,5 +1,5 @@
 while True:
-    print("\n===== CALCULADORA =====")
+    print("===== CALCULADORA =====")
     print("1 - Somar")
     print("2 - Subtrair")
     print("3 - Multiplicar")
